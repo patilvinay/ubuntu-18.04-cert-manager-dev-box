@@ -29,7 +29,8 @@ You need the following installed on host machine
 
 
 ## How to create a guest vm box
-* clone this repo
+* git clone https://github.com/patilvinay/ubuntu-18.04-cert-manager-dev-box.git
+* cd ubuntu-18.04-cert-manager-dev-box
 * vagrant up
 * vagrant ssh
 
@@ -39,6 +40,7 @@ Once you 'vagrant ssh' you can login to the virtual machine.
 
 # Build the cert-manager 
 * git clone https://github.com/jetstack/cert-manager.git
+* cd cert-manager
 * git checkout release-0.15
 * [build instructions](https://github.com/jetstack/cert-manager/tree/master/devel)
 
