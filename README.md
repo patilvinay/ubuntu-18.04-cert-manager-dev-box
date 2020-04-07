@@ -41,3 +41,12 @@ Once you 'vagrant ssh' you can login to the virtual machine.
 * git clone https://github.com/jetstack/cert-manager.git
 * git checkout release-0.15
 * [build instructions](https://github.com/jetstack/cert-manager/tree/master/devel)
+
+
+
+
+## vm zsh looks like this
+![image](./assets/img/vagrant-ssh.PNG)
+## vm tmux looks link this
+![image](./assets/img/tmux.png)
+
