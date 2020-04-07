@@ -46,7 +46,7 @@ Once you 'vagrant ssh' you can login to the virtual machine.
 
 
 ## vm zsh looks like this
-![image](./assets/img/vagrant-ssh.PNG)
+![image](./assets/img/vagrant-ssh.png)
 ## vm tmux looks link this
 ![image](./assets/img/tmux.png)
 
