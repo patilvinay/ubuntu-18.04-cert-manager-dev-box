@@ -51,4 +51,6 @@ Once you 'vagrant ssh' you can login to the virtual machine.
 ![image](./assets/img/vagrant-ssh.png)
 ## vm tmux looks link this
 ![image](./assets/img/tmux.png)
+## Cert-manager e2e dep setup in action
+![image](./assets/img/cert-e2e-deps-setup.png)
 
